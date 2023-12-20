@@ -7,12 +7,12 @@ To this page you should add links to your interactive html-maps that are located
 Here is an example how to do it in MarkDown for user HTenkanen:
 
 ```
-[Link to test map](https://github.com/JBMoliere/test2.github.io/docs/test_map.html)
+[Link to test map](https://github.com/JBMoliere/test2.github.io/docs/selectstrokeclusterfinal2.html)
 ```
 
 ## My maps
 
 Add here links to the maps that you have created:
 
- - [Link to test map]((https://github.com/JBMoliere/test2.github.io/docs/test_map.html)
+ - [Link to test map]((https://github.com/JBMoliere/test2.github.io/docs/selectstrokeclusterfinal2.html)
  - Replace this with your link
