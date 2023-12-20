@@ -14,5 +14,5 @@ Here is an example how to do it in MarkDown for user HTenkanen:
 
 Add here links to the maps that you have created:
 
- - [Link to test map]((https://github.com/JBMoliere/test2.github.io/docs/selectstrokeclusterfinal2.html)
+ - [Link to test map](https://github.com/JBMoliere/test2.github.io/docs/selectstrokeclusterfinal2.html)
  - Replace this with your link
